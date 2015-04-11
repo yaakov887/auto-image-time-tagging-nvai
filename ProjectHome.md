@@ -1,0 +1,1 @@
+Python script to automate Race Image tagging based on image metadata and provided race times.
